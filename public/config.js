@@ -13,7 +13,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_ENABLE_ABSTRACT_WALLET": "false",
   "VITE_DISABLE_EVM_WALLETS": "false",
   "VITE_DISABLE_SOLANA_WALLETS": "false",
-  "VITE_WALLETCONNECT_PROJECT_ID": "attacker-controlled-project-id",
+  "VITE_WALLETCONNECT_PROJECT_ID": "",
   "VITE_APP_NAME": "Orderly DEX",
   "VITE_APP_DESCRIPTION": "Decentralized exchange on Orderly Network",
   "VITE_HAS_PRIMARY_LOGO": "false",
