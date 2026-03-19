@@ -27,7 +27,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TWITTER_URL": "",
   "VITE_SEO_SITE_NAME": "XSS-Test-DEX",
   "VITE_SEO_SITE_DESCRIPTION": "Test description",
-  "VITE_SEO_SITE_URL": "https://dex.orderly.network/orderly-dex-0858/",
+  "VITE_SEO_SITE_URL": "https://test-not-real-domain-xyzzy123.example.org",
   "VITE_SEO_SITE_LANGUAGE": "en",
   "VITE_SEO_SITE_LOCALE": "en_US",
   "VITE_SEO_TWITTER_HANDLE": "",
