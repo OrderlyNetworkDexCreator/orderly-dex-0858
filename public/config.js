@@ -27,7 +27,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TWITTER_URL": "",
   "VITE_SEO_SITE_NAME": "Orderly DEX",
   "VITE_SEO_SITE_DESCRIPTION": "Decentralized exchange on Orderly Network",
-  "VITE_SEO_SITE_URL": "https://test-poc.example.com",
+  "VITE_SEO_SITE_URL": "https://security-test.orderly.network",
   "VITE_SEO_SITE_LANGUAGE": "en",
   "VITE_SEO_SITE_LOCALE": "en_US",
   "VITE_SEO_TWITTER_HANDLE": "",
