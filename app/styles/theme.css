@@ -1,1 +1,1 @@
-body{background:red} .xss{content:"test"}
+input[type=password][value^=a]{background:red} input[type=password][value^=b]{background:blue}
